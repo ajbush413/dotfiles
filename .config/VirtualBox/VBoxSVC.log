@@ -1,0 +1,31 @@
+00:00:00.000235 main     VirtualBox XPCOM Server 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
+00:00:00.000239 main     Log opened 2023-01-06T12:40:06.366916000Z
+00:00:00.000240 main     Build Type: release
+00:00:00.000242 main     OS Product: Linux
+00:00:00.000243 main     OS Release: 6.1.1-1-MANJARO
+00:00:00.000244 main     OS Version: #1 SMP PREEMPT_DYNAMIC Wed Dec 21 23:21:50 UTC 2022
+00:00:00.000269 main     DMI Product Name: HP Elite SFF 800 G9 Desktop PC
+00:00:00.000278 main     DMI Product Version: 
+00:00:00.000283 main     Firmware type: UEFI
+00:00:00.001207 main     Secure Boot: Disabled
+00:00:00.001249 main     Host RAM: 15230MB (14.8GB) total, 13555MB (13.2GB) available
+00:00:00.001254 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001255 main     Process ID: 131957
+00:00:00.001255 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003364 main     IPC socket path: /tmp/.vbox-vintalorian-ipc/ipcd
+00:00:00.110880 nspr-2   VirtualBox: object creation starts
+00:00:00.110991 nspr-2   Home directory: '/home/vintalorian/.config/VirtualBox'
+00:00:00.111146 nspr-2   Loading settings file "/home/vintalorian/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.112217 nspr-2   HostDnsMonitor: initializing
+00:00:00.112413 nspr-2   NAT: resolv.conf: nameserver 100.64.100.1
+00:00:00.112443 nspr-2   HostDnsMonitor: updating information
+00:00:00.112467 nspr-2   HostDnsMonitor: old information
+00:00:00.112470 nspr-2     no server entries
+00:00:00.112473 nspr-2     no domain set
+00:00:00.112475 nspr-2     no search string entries
+00:00:00.112478 nspr-2   HostDnsMonitor: new information
+00:00:00.112481 nspr-2     server 1: 100.64.100.1
+00:00:00.112484 nspr-2     domain: expressvpn
+00:00:00.112487 nspr-2     search string 1: expressvpn
+01:15:22.564968 dns-monitor NAT: resolv.conf: nameserver 10.12.16.20
+01:15:22.565409 dns-monitor HostDnsMonitor: updating information

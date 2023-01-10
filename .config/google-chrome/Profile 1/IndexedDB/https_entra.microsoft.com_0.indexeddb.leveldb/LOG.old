@@ -1,0 +1,7 @@
+2023/01/09-10:01:49.867 7f2da Reusing MANIFEST /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_entra.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/09-10:01:49.867 7f2da Recovering log #3
+2023/01/09-10:01:49.879 7f2da Reusing old log /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_entra.microsoft.com_0.indexeddb.leveldb/000003.log 
+2023/01/09-15:15:36.160 10e97e Level-0 table #5: started
+2023/01/09-15:15:36.165 10e97e Level-0 table #5: 120827 bytes OK
+2023/01/09-15:15:36.167 10e97e Delete type=0 #3
+2023/01/09-15:15:36.167 10e97e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

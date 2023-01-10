@@ -1,0 +1,15 @@
+2023/01/10-07:15:54.142 1265fc Reusing MANIFEST /home/vintalorian/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/10-07:15:54.142 1265fc Recovering log #15
+2023/01/10-07:15:54.142 1265fc Reusing old log /home/vintalorian/.config/discord/Local Storage/leveldb/000015.log 
+2023/01/10-07:21:04.876 126619 Level-0 table #19: started
+2023/01/10-07:21:04.915 126619 Level-0 table #19: 1307724 bytes OK
+2023/01/10-07:21:04.917 126619 Delete type=0 #15
+2023/01/10-07:21:04.917 126619 Compacting 4@0 + 1@1 files
+2023/01/10-07:21:04.933 126619 Generated table #20@0: 17 keys, 1307042 bytes
+2023/01/10-07:21:04.933 126619 Compacted 4@0 + 1@1 files => 1307042 bytes
+2023/01/10-07:21:04.934 126619 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-07:21:04.934 126619 Delete type=2 #8
+2023/01/10-07:21:04.934 126619 Delete type=2 #11
+2023/01/10-07:21:04.934 126619 Delete type=2 #14
+2023/01/10-07:21:04.934 126619 Delete type=2 #16
+2023/01/10-07:21:04.934 126619 Delete type=2 #19

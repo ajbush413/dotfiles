@@ -1,0 +1,7 @@
+2023/01/06-09:47:17.295 1356b Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_www.history.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/06-09:47:17.295 1356b Recovering log #3
+2023/01/06-09:47:17.295 1356b Reusing old log /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_www.history.com_0.indexeddb.leveldb/000003.log 
+2023/01/06-09:47:36.850 14425 Level-0 table #5: started
+2023/01/06-09:47:36.851 14425 Level-0 table #5: 2361 bytes OK
+2023/01/06-09:47:36.852 14425 Delete type=0 #3
+2023/01/06-09:47:36.852 14425 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

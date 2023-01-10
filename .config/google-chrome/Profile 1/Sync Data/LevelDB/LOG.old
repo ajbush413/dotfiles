@@ -1,0 +1,45 @@
+2023/01/09-09:27:12.752 6a375 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2023/01/09-09:27:12.752 6a375 Recovering log #15
+2023/01/09-09:27:12.753 6a375 Reusing old log /home/vintalorian/.config/google-chrome/Profile 1/Sync Data/LevelDB/000015.log 
+2023/01/09-09:32:00.892 71242 Level-0 table #20: started
+2023/01/09-09:32:00.894 71242 Level-0 table #20: 132718 bytes OK
+2023/01/09-09:32:00.895 71242 Delete type=0 #15
+2023/01/09-10:01:45.740 7f2d8 Level-0 table #22: started
+2023/01/09-10:01:45.747 7f2d8 Level-0 table #22: 119371 bytes OK
+2023/01/09-10:01:45.748 7f2d8 Delete type=0 #19
+2023/01/09-12:50:51.530 cbb8c Level-0 table #24: started
+2023/01/09-12:50:51.538 cbb8c Level-0 table #24: 150065 bytes OK
+2023/01/09-12:50:51.539 cbb8c Delete type=0 #21
+2023/01/09-12:58:04.383 cf4d6 Level-0 table #26: started
+2023/01/09-12:58:04.389 cf4d6 Level-0 table #26: 111632 bytes OK
+2023/01/09-12:58:04.390 cf4d6 Delete type=0 #23
+2023/01/09-12:58:04.390 cf4d6 Compacting 4@0 + 1@1 files
+2023/01/09-12:58:04.392 cf4d6 Generated table #27@0: 55 keys, 14429 bytes
+2023/01/09-12:58:04.392 cf4d6 Compacted 4@0 + 1@1 files => 14429 bytes
+2023/01/09-12:58:04.393 cf4d6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/09-12:58:04.393 cf4d6 Delete type=2 #24
+2023/01/09-12:58:04.393 cf4d6 Delete type=2 #26
+2023/01/09-12:58:04.393 cf4d6 Delete type=2 #17
+2023/01/09-12:58:04.393 cf4d6 Delete type=2 #20
+2023/01/09-12:58:04.393 cf4d6 Delete type=2 #22
+2023/01/09-15:15:09.511 10d8bd Level-0 table #29: started
+2023/01/09-15:15:09.519 10d8bd Level-0 table #29: 125034 bytes OK
+2023/01/09-15:15:09.521 10d8bd Delete type=0 #25
+2023/01/09-15:39:36.030 119df1 Level-0 table #31: started
+2023/01/09-15:39:36.032 119df1 Level-0 table #31: 157242 bytes OK
+2023/01/09-15:39:36.033 119df1 Delete type=0 #28
+2023/01/09-15:43:43.601 11c951 Level-0 table #33: started
+2023/01/09-15:43:43.603 11c951 Level-0 table #33: 180510 bytes OK
+2023/01/09-15:43:43.604 11c951 Delete type=0 #30
+2023/01/09-15:49:02.800 11e94a Level-0 table #35: started
+2023/01/09-15:49:02.804 11e94a Level-0 table #35: 126363 bytes OK
+2023/01/09-15:49:02.806 11e94a Delete type=0 #32
+2023/01/09-15:49:02.807 11e94a Compacting 4@0 + 1@1 files
+2023/01/09-15:49:02.812 11e94a Generated table #36@0: 55 keys, 13586 bytes
+2023/01/09-15:49:02.812 11e94a Compacted 4@0 + 1@1 files => 13586 bytes
+2023/01/09-15:49:02.812 11e94a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/09-15:49:02.813 11e94a Delete type=2 #27
+2023/01/09-15:49:02.813 11e94a Delete type=2 #29
+2023/01/09-15:49:02.813 11e94a Delete type=2 #35
+2023/01/09-15:49:02.813 11e94a Delete type=2 #31
+2023/01/09-15:49:02.813 11e94a Delete type=2 #33

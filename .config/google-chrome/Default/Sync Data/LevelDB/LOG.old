@@ -1,0 +1,18 @@
+2023/01/10-07:26:59.369 1553 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/01/10-07:26:59.370 1553 Recovering log #44
+2023/01/10-07:26:59.371 1553 Reusing old log /home/vintalorian/.config/google-chrome/Default/Sync Data/LevelDB/000044.log 
+2023/01/10-07:32:34.655 3fde Level-0 table #48: started
+2023/01/10-07:32:34.663 3fde Level-0 table #48: 126245 bytes OK
+2023/01/10-07:32:34.664 3fde Delete type=0 #44
+2023/01/10-09:44:26.527 3e300 Level-0 table #50: started
+2023/01/10-09:44:26.534 3e300 Level-0 table #50: 77980 bytes OK
+2023/01/10-09:44:26.535 3e300 Delete type=0 #47
+2023/01/10-09:44:26.535 3e300 Compacting 4@0 + 1@1 files
+2023/01/10-09:44:26.537 3e300 Generated table #51@0: 158 keys, 25917 bytes
+2023/01/10-09:44:26.537 3e300 Compacted 4@0 + 1@1 files => 25917 bytes
+2023/01/10-09:44:26.538 3e300 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-09:44:26.538 3e300 Delete type=2 #41
+2023/01/10-09:44:26.538 3e300 Delete type=2 #45
+2023/01/10-09:44:26.538 3e300 Delete type=2 #48
+2023/01/10-09:44:26.538 3e300 Delete type=2 #50
+2023/01/10-09:44:26.538 3e300 Delete type=2 #43

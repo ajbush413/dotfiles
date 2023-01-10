@@ -1,0 +1,6 @@
+2023/01/10-10:41:17.970 53630 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-10:41:17.971 53630 Recovering log #12
+2023/01/10-10:41:17.975 53630 Reusing old log /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
+2023/01/10-10:41:29.843 53630 Level-0 table #18: started
+2023/01/10-10:41:29.859 53630 Level-0 table #18: 2248677 bytes OK
+2023/01/10-10:41:29.860 53630 Delete type=0 #12

@@ -1,0 +1,6 @@
+2023/01/09-13:06:18.761 cc0a2 Creating DB /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_whatismyipaddress.com_0.indexeddb.leveldb since it was missing.
+2023/01/09-13:06:18.763 cc0a2 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_whatismyipaddress.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/09-13:06:31.000 ce2fc Level-0 table #5: started
+2023/01/09-13:06:31.001 ce2fc Level-0 table #5: 5465 bytes OK
+2023/01/09-13:06:31.002 ce2fc Delete type=0 #3
+2023/01/09-13:06:31.002 ce2fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

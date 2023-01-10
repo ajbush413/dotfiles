@@ -1,0 +1,6 @@
+2023/01/10-07:27:07.061 1968 Reusing MANIFEST /home/vintalorian/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/10-07:27:07.061 1968 Recovering log #18
+2023/01/10-07:27:07.061 1968 Reusing old log /home/vintalorian/.config/discord/Local Storage/leveldb/000018.log 
+2023/01/10-11:28:25.851 6a944 Level-0 table #23: started
+2023/01/10-11:28:25.875 6a944 Level-0 table #23: 1309375 bytes OK
+2023/01/10-11:28:25.876 6a944 Delete type=0 #18

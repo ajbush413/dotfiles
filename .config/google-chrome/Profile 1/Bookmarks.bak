@@ -1,0 +1,153 @@
+{
+   "checksum": "1a7548079833798912a2cfda2dc83084",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13290711378609511",
+            "date_last_used": "13317748238151430",
+            "guid": "da79974a-f347-4485-abe2-beca405bd5c4",
+            "id": "7",
+            "name": "Spiceworks Help Desk",
+            "type": "url",
+            "url": "https://gi-tec.on.spiceworks.com/tickets/open/1?sort=updated_at-desc&q="
+         }, {
+            "date_added": "13290711309214265",
+            "date_last_used": "0",
+            "guid": "9024a2c9-a8d6-4860-819a-8098f660be0b",
+            "id": "8",
+            "name": "MPPS-Online Home",
+            "type": "url",
+            "url": "http://10.12.16.28/MPPS-Online/home/home.php"
+         }, {
+            "date_added": "13294953672246286",
+            "date_last_used": "0",
+            "guid": "172af67b-bcdb-4590-b887-26b5904f91b3",
+            "id": "9",
+            "name": "Adobe Admin",
+            "type": "url",
+            "url": "https://adminconsole.adobe.com/E6671DCC611D5BAA0A495C6E@AdobeOrg/users"
+         }, {
+            "date_added": "13299608195512954",
+            "date_last_used": "13317770617788587",
+            "guid": "e105845d-650a-4ea7-a76a-143e2d079884",
+            "id": "10",
+            "name": "giresdschools.net - Microsoft Azure",
+            "type": "url",
+            "url": "https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview"
+         }, {
+            "date_added": "13316822437217404",
+            "date_last_used": "13317750104882728",
+            "guid": "977e4d05-9945-4df8-a7b5-70ecc911e8bf",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - Microsoft Entra admin center",
+            "type": "url",
+            "url": "https://entra.microsoft.com/#home"
+         }, {
+            "date_added": "13299705022086731",
+            "date_last_used": "13317770540009602",
+            "guid": "4c54d7a7-937f-4aa6-853a-9e9b7db40eba",
+            "id": "12",
+            "name": "Intune",
+            "type": "url",
+            "url": "https://endpoint.microsoft.com/#home"
+         }, {
+            "date_added": "13308235158912931",
+            "date_last_used": "13315666778306218",
+            "guid": "2e2c0edf-3888-402f-abba-097bca1b3234",
+            "id": "13",
+            "name": "Google Admin console",
+            "type": "url",
+            "url": "https://admin.google.com/?hl=en&pli=1"
+         }, {
+            "date_added": "13310240141355925",
+            "date_last_used": "0",
+            "guid": "d707e459-1f3b-4456-99af-b68c4dd0381a",
+            "id": "14",
+            "name": "CIMS Web Applications",
+            "type": "url",
+            "url": "http://as400.edzone.net:18732/XDHWEB/CMTMAIN1.MBR/CMTMAIN?menutitle=CIMS%20Web%20Applications&menuhdng=CIMS%20Web%20Applications&AlwSrchEng=false&APID="
+         }, {
+            "date_added": "13310653012666559",
+            "date_last_used": "13317238080063519",
+            "guid": "5e8d3dd4-5f23-4bca-a6f5-02ff55656cbb",
+            "id": "15",
+            "name": "MP Students 2022-23 - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1pC4ieO8tIdgA-Xhw1jgtYxqvQcHsoVjQLwcAS16W3Y0/edit#gid=292827987"
+         }, {
+            "date_added": "13312906709943006",
+            "date_last_used": "0",
+            "guid": "f46062af-8d9a-44a4-a7d9-58679c92238a",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Random 5 Digit Number Generator",
+            "type": "url",
+            "url": "https://numbergenerator.org/random-5-digit-number-generator"
+         }, {
+            "date_added": "13312917169754104",
+            "date_last_used": "0",
+            "guid": "8b21687e-f333-431d-bd3b-fd87e0294eba",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WillSub - Staffing Made Simple",
+            "type": "url",
+            "url": "https://willsub.com/"
+         } ],
+         "date_added": "13317396978035987",
+         "date_last_used": "0",
+         "date_modified": "13316822437217404",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13310136309107959",
+            "date_last_used": "0",
+            "guid": "ab74bf5f-197f-41d5-adc4-0fa4e64942b4",
+            "id": "18",
+            "name": "How to delete an account on Windows 11 | Windows Central",
+            "type": "url",
+            "url": "https://www.windowscentral.com/how-delete-account-windows-11"
+         }, {
+            "date_added": "13314295639548322",
+            "date_last_used": "0",
+            "guid": "90f0716c-140d-4d62-b9d5-119fe940c0fd",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Troubleshooting: Group Policy (GPO) Not Being Applied to Clients | Windows OS Hub",
+            "type": "url",
+            "url": "http://woshub.com/group-policy-not-applied-troubleshooting/"
+         } ],
+         "date_added": "13317396978035991",
+         "date_last_used": "0",
+         "date_modified": "13314295639548322",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13317396978035994",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvsBCtoBCIiBAhLTARI8CAISOAoGCgJibRABEDMaEgkA6Wrb2PEFACEA6Wrb2PEFADIYChYIAhE272fr2PEFABgAIQAAAAAAAAAAIABIu6emvtkwcLunpr7ZMJIBfQo0Cg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgml+Wjr2PEFABGl+Wjr2PEFACml+Wjr2PEFAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQB+JebY8QUAEQB+JebY8QUAKToOaOvY8QUAMID8lbGOu/wCugECCAESACABKhhVcnFFZWlLK2Vua0tVNncxbTlKWnFRPT0S6wEIEhLmAQocQ1BuYU5QcG1DbjJpbXhLSHNzTmluQTB2cnhBPRJmWjpBRHF0QVp4ay9Hd05xdlNjVlVjeTlkQlI0QlZMSGhGL0NKSmcwa3RzSVcxVjFGUGNKSFBBVXArNExOWVBqM2svekRLZyt6ZVg1aXcxOGtodC9zanNxMkhEeSs3Ly8rRHVmZz09GAAgACgAMID/89+U5/oCOPTa74m9MED02u+JvTBKHHVxVEIyWkxabzFPekZYd1JuZXpTOFFLaE1NZz1aHiIcVWh5eVpJQi85U3BUTVVmdE5jNDh4NGV4QWNjPWUu5bY2EuwBCA0S5wEKHGViNHZUTUEzYUFya3RLU0JSWGhqWnNQcDljaz0SZlo6QURxdEFaeGsvR3dOcXZTY1ZVY3k5ZEJSNEJWTG1kSGlHTGQveUNBL3Z6Z2VMRFFrZk14U3I0NzVUNDkyVFZTaVVucnIvenRCbWxGOEc4clN5RXVvN1pjdk1JRFVRZy9FS1E9PRgAIAAoADDilJ7kj/77AjiB26r/tTBAgduq/7UwShxnejVUaWMweERFbjFrMXpmcVRDaEZZSjdiY0E9Wh8iHf40Y2lpL1hFT0xXT3JpWXdyVi92MnF6UUFOSE09ZRVT4qIS7AEIExLnAQocYzFOQXA0aVNxZ0k5UG9WbnRLd0tLVDExdDFzPRJmWjpBRHF0QVp4ay9Hd05xdlNjVlVjeTlkQlI0QlZMa0lOWlhWNHRmY0YzY0tFNnBXNEZZZnIrdkxBZ1BMVEpiSjJqdjdjWkh0UVBIWVRZZFdLTWlUZitzUXZEWlladEhnQzRpdz09GAAgACgAMJ+A8e6b1vsCOP+LmcnMMED/i5nJzDBKHHZNdnJTUlNIYXZiZndXKzBGclBlTDBLZGpUVT1aHyIdqkJ4dXptYWp5OGVPcmVkYk5BWWFKYWRueGp2cz1l/cIM6hLtAQgREugBChxiUmNKbm1VNUFvSDcwRnhxV2hFMWwwQk5qQVE9EmZaOkFEcXRBWnhrL0d3TnF2U2NWVWN5OWRCUjRCVkw1Y2Z1b0ErdncwYVNFY1V4anAvQXZqaHdFejFXc1RqMjlTT1ErY2wwYk1HSFdrcXBlMUw0cXBhWnpDYWVvUzBWQm1DcVNnPT0YACAAKAAwyKvsmfj2+wI42vzxt8cwQNr88bfHMEocNjVIbEFHb01DbVhadzVvZWNmZDRsQ1ZWeE1ZPVogIh7/7mxxWWlPWG1DRmNUZXlBb2JvZmJLaGRXY1hiWT1lSTWbShLtAQgQEugBChx1UWpKMGp3K0YyNlptbndaUzdXKzFQQU5kVWM9EmZaOkFEcXRBWnhrL0d3TnF2U2NWVWN5OWRCUjRCVkxMV09XdzdrNUZMNm9lQkJURjhtd2JHR1ljSjlNNFVTUzFMZVBHMm1VQzAxbkdkUlp1RVVHVzlmdXJUc3gwdXVIeFBPQ0hnPT0YACAAKAAwyKvsmfj2+wI4t8fzsscwQLfH87LHMEocc3BoRFYzMFdDN3hVeDZOSHVESG84bDh6YjJvPVogIh7/3EQzc2FDYmFHdDJTcGg2NEJ5UG9GZWhKWGo0Zz1lMD68XRLsAQgLEucBChxEZjF0dTRwNGlhTk1FTk1UaG9ScWR5RlZDaFE9EmZaOkFEcXRBWnhrL0d3TnF2U2NWVWN5OWRCUjRCVkxiaCtWSTU3OW56Z0NRNVRmMEhUT1dWUUpEV2JSblVXS1lJSXhtbFhOTlk2anFSV1JxL3gybzJmQWsrRUxsN1NBVkt5N25BPT0YACAEKAQw2OjE4eC6/AI44cqI/tUwQL2htbjZMEocSElmZjZBVnVIbWxpYTFqUWJSOVZTQ2tRWHBrPVofIh35WVVBOWZOeGtyZ2theTN0YVk5cG9PcXNRUTZBPWXSoWxeEu0BCA8S6AEKHGRTdEtNb1VvWjR6cEFzSUZuYlRiS2ZNUW9Rcz0SZlo6QURxdEFaeGsvR3dOcXZTY1ZVY3k5ZEJSNEJWTDVNdWdqR0w5Y0xVanl0ZWZVYlhkOGZycW5sK2RxRnQwMlE1bmFHSXdGQ0VsMCtDS3dWTmNCdy9jQmhqbWFVby9HSVc5WFE9PRgAIAAoADCLpO2q7av8Aji65aCAvzBAuuWggL8wShxzY05OaEo2UTVyUXpkYUJPQXB2R1QxV2RKeTQ9WiAiHv+5MXZId1ZoZkhzZEVoOFZieDNRajZrYkRieFZFPWWgZtvoEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaemhZaENYdDNDbUNPWldZczREY2djdVFncGZnMzk0bmxrOEpUSWp1SzdZU1gxQXlrWGRjdWpBdUgwYVhwRk9peUxRSkN1ckw2NENLWGozMFlIdElma0U3WXpNT2c9PRgAIAAoADD+uP6ovbD8AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCA4S5wEKHHlKbUNIUiszczBROVlhai9pMVpyS0RJc29DOD0SZlo6QURxdEFaeGsvR3dOcXZTY1ZVY3k5ZEJSNEJWTDV4b3dpZ2xRSEdDdjRuSXdYaElMVzJBcHNsMDJRbWxVaEZMblRHaEZsN1JHdElRUjhmelZIUzJjYUo2elk5R1k3b21FZGc9PRgAIAAoADCmgebflOf6AjirkLG7vTBAq5Cxu70wShxQT2F2TFpjMHFhK3RRbVR6NzhBSGh4amo3VG89Wh8iHf9yUzVMb0pwdTh3TXQ2REdNUjRJcXhMK1ZHdkE9ZQAAAAAS7AEIChLnAQocQzR4Q2dVQm8wSTJkV3Rxc2p0ZFFLenlRTGNZPRJmWjpBRHF0QVp4ay9Hd05xdlNjVlVjeTlkQlI0QlZMQWh5aTNkZkxkU0x1NEgrOU1HaU9JMmhldldTT2RSMWh1YW9meFhxU0ZuUjNaWngyVlFua0FQS1RpdDV4cUF3MWhEZU40QT09GAAgCCgIMJT9/JWtu/wCOL7T1u2VMEC1k5nC2TBKHHJmc0VacGM0cjd5RTJ5VWZGS00yYWQ5bEFZND1aHyId90FPUFc5MCtNUmxkKy9yL2RmQTEzNVQ5S1JxQT1l0qFsXhLsAQgMEucBChx2ZjQxVWtoLzFwN1VWbUJ3KzV3UXVhdlFaZFk9EmZaOkFEcXRBWnhrL0d3TnF2U2NWVWN5OWRCUjRCVkxkbldrMHVobDMwU0ZzMXpwYy9qdkRhbHkrWlpGRmRSRE15VzRxeGxYakhXY00yMEtjYnBXMWRnU1lrQ0t2MGdpSXZpVFZBPT0YACAGKAYwiYSK8ay7/AI4h73sm5YwQOi2lMLZMEocYm5HcDVtRFNMejdHdkp5TWwvV1VqN2Jnc3NrPVofIh37Ump2L1UreDZERTlFSFZZMEM2OGJXWFFPNXhNPWXSoWxeEuwBCAkS5wEKHFpnZG1NSjNjb2FNckVhOWNFZU1RMFVTKzFZND0SZlo6QURxdEFaeGsvR3dOcXZTY1ZVY3k5ZEJSNEJWTFRBZ0wzbzFMaVZ3NDlGS3R5SUcyUVJFOGhTbWhXc0hoSk1UMjQ1TlFGY2FyanpFbVMvenRLQ1Mrd2p0TVN4MzJDUFRhRVE9PRgAIAIoAjCswLOpvbD8Aji3jJ3ChDBAv6SFkNgwShxaeDJCMzhGZDBjaEMweERidXZrOHJCa2VuYVk9Wh8iHd0yYzZXWk80bTRDVEN6VTBKL0Y0aWNLNmR5eHM9ZVfKGygS7AEIBxLnAQoccEF5M3hXaHYyeTVyR1RqckovUk1QYU5iSTdBPRJmWjpBRHF0QVp4ay9Hd05xdlNjVlVjeTlkQlI0QlZMcWh3UEdJMjhOSlV4NVhJN0NOOVRwTlc3VXVhQ1dLTE4vRkpNTUIxb1FjaUx6WE43QWF1WXF6Y2RwbmJ4aU90ZytlYytOdz09GAAgAigCMKzAs6m9sPwCOLGFrNv0L0C/pIWQ2DBKHFNXT1Y4bjNRd0JjdWI0TmFSSCtHWDZXMkpvQT1aHyIdGWY1elI4QitENm9wbWZmeGRZV2o5clNxOFQrTT1laGpb3RKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnd0M2VpWVZLMUg2OG9TU2p6Yi9zbm5ZQmtGeEVyNkgzNEh6NzhOK0h6Rm1wMkRYTDBGT2FUdFdTT2dVcE9GU0VYanpsMVMYACAAKAAw/rj+qL2w/AI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLrAQgIEuYBChxvQzRnRlZxbTcwUFRDUERkd2dORTgwZzk1UmM9EmZaOkFEcXRBWnhrL0d3TnF2U2NWVWN5OWRCUjRCVkxZcEQ4YVhBMUxwZFpZKzRnamM2RWVkeGw1eXVFTllLMFBDbUtwNnk3OTlqUC8wc1U1c2xpL0FXMWVYOWxJdVpoMWRxWGNnPT0YACAAKAAwxruwsemn9gI4oOen2/QvQKDnp9v0L0ocbUZvZXlBSC9IUjl1RG5Qd3dUZDJxazh3MFpZPVoeIhwyWEcrSFhwVHZCUTF5T0dmanhLNjZiRmJwbEU9ZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3R2w3a0RTc1J5SHlHQUgrRmFIcHMxYXZud3Q0enlSY2xzaWdEK0RLcGVxdnd3d3hWUHZPZW9HM3FHTlpQZ3V4SkxxOWRYUGhOczY4K2JjRmtPSG9sSENNbVorZz09GAAgACgAMP64/qi9sPwCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

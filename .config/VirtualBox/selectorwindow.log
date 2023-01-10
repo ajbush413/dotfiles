@@ -1,0 +1,27 @@
+00:00:00.286699 VirtualBox GUI VM Selector Window 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
+00:00:00.286702 Log opened 2023-01-06T12:19:07.116685000Z
+00:00:00.286703 Build Type: release
+00:00:00.286705 OS Product: Linux
+00:00:00.286706 OS Release: 6.1.1-1-MANJARO
+00:00:00.286708 OS Version: #1 SMP PREEMPT_DYNAMIC Wed Dec 21 23:21:50 UTC 2022
+00:00:00.286734 DMI Product Name: HP Elite SFF 800 G9 Desktop PC
+00:00:00.286742 DMI Product Version: 
+00:00:00.286747 Firmware type: UEFI
+00:00:00.287647 Secure Boot: Disabled
+00:00:00.287695 Host RAM: 15230MB (14.8GB) total, 12733MB (12.4GB) available
+00:00:00.287699 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.287700 Process ID: 89915
+00:00:00.287700 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.287739 Qt version: 5.15.7
+00:00:00.288697 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.292629 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.292656 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.606461 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 10x32 x 944x1030
+00:00:00.606494 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 970x32 x 932x501
+00:00:00.606669 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 2 work area is actually resized to: 970x549 x 932x513
+00:01:31.320835 GUI: UIMediumEnumerator: Medium with key={{d5eadc09-8508-42b7-9881-7db032fbfebe}} created
+00:01:31.425499 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:55.129596 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:59.305490 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:00.708538 GUI: UICommon: Handling aboutToQuit request..
+00:18:01.883133 GUI: UICommon: aboutToQuit request handled!

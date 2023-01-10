@@ -1,0 +1,28 @@
+{
+   "description": "Sea Foam: You can almost smell the ocean",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkc247LIM4wb3mrAsLtK/rJQeTpMVgvaE9V2dePNHrmPjIY5d5+mr/QOYOAWdqXy3ZGSM7OWu99ZS2/s6/5G5nRqOy5TODa/yYRu5x0xLuX9fhMbxJ3VNGBi2aGY7jRcejZYfRfAxaIw+DBAQbtg1T3W4sH/95mp+o5XYwipJUiSbQljLv7fBiE+wR5BVJ6aHgnwCKZFM3cjeVDVGVD7qTA8mry2Ogj3BVtNkJ58uHPzSs4RI4JPtYpqi9NG7NGDVNSaX4wPammDMNeZNWm2OCdLKkt/uvtu4PslpoZ14vHMaTliap2bPl1pE1sNkppuZIwwywElb2bke0BXe8+EGjwIDAQAB",
+   "manifest_version": 2,
+   "name": "Sea Foam",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 9, 50, 47 ],
+         "frame": [ 178, 224, 223 ],
+         "ntp_background": [ 178, 224, 223 ],
+         "ntp_text": [ 241, 255, 254 ],
+         "tab_background_text": [ 9, 50, 47 ],
+         "tab_background_text_inactive": [ 9, 50, 47 ],
+         "tab_background_text_incognito": [ 9, 50, 47 ],
+         "tab_background_text_incognito_inactive": [ 9, 50, 47 ],
+         "tab_text": [ 9, 50, 47 ],
+         "toolbar": [ 241, 255, 254 ]
+      },
+      "tints": {
+         "buttons": [ 0.5, 1, 0.1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

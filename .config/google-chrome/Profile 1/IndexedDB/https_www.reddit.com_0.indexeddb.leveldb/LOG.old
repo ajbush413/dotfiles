@@ -1,0 +1,6 @@
+2023/01/09-09:46:12.222 778a1 Creating DB /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2023/01/09-09:46:12.224 778a1 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Profile 1/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/09-09:47:12.693 77579 Level-0 table #5: started
+2023/01/09-09:47:12.694 77579 Level-0 table #5: 1847 bytes OK
+2023/01/09-09:47:12.695 77579 Delete type=0 #3
+2023/01/09-09:47:12.696 77579 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

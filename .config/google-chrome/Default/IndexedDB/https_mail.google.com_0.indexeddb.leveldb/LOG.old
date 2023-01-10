@@ -1,0 +1,9 @@
+2023/01/10-07:27:00.013 1554 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-07:27:00.014 1554 Recovering log #12
+2023/01/10-07:27:00.016 1554 Reusing old log /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
+2023/01/10-07:27:01.937 1582 Compacting 1@1 + 1@2 files
+2023/01/10-07:27:01.948 1582 Generated table #15@1: 274 keys, 631542 bytes
+2023/01/10-07:27:01.948 1582 Compacted 1@1 + 1@2 files => 631542 bytes
+2023/01/10-07:27:01.948 1582 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/10-07:27:01.948 1582 Delete type=2 #13
+2023/01/10-07:27:01.948 1582 Delete type=2 #10

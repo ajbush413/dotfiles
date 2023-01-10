@@ -1,0 +1,6 @@
+2023/01/05-10:51:06.361 15e6b Creating DB /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_engage.truex.com_0.indexeddb.leveldb since it was missing.
+2023/01/05-10:51:06.363 15e6b Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_engage.truex.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/05-10:51:08.874 186b4 Level-0 table #5: started
+2023/01/05-10:51:08.875 186b4 Level-0 table #5: 363 bytes OK
+2023/01/05-10:51:08.876 186b4 Delete type=0 #3
+2023/01/05-10:51:08.876 186b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

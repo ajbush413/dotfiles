@@ -1,0 +1,6 @@
+2023/01/10-07:55:18.299 9f57 Creating DB /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/01/10-07:55:18.302 9f57 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-09:16:46.342 33e0d Level-0 table #5: started
+2023/01/10-09:16:46.344 33e0d Level-0 table #5: 25545 bytes OK
+2023/01/10-09:16:46.345 33e0d Delete type=0 #3
+2023/01/10-09:16:46.345 33e0d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,21 @@
+2023/01/10-10:41:17.394 4d Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/10-10:41:17.395 4d Recovering log #152
+2023/01/10-10:41:17.396 4d Reusing old log /home/vintalorian/.config/google-chrome/Default/Local Storage/leveldb/000152.log 
+2023/01/10-10:41:47.024 4d Level-0 table #155: started
+2023/01/10-10:41:47.032 4d Level-0 table #155: 33869 bytes OK
+2023/01/10-10:41:47.035 4d Delete type=0 #152
+2023/01/10-11:25:41.967 5f Level-0 table #157: started
+2023/01/10-11:25:41.969 5f Level-0 table #157: 15231 bytes OK
+2023/01/10-11:25:41.970 5f Delete type=0 #154
+2023/01/10-11:26:54.184 54 Level-0 table #159: started
+2023/01/10-11:26:54.190 54 Level-0 table #159: 18863 bytes OK
+2023/01/10-11:26:54.192 54 Delete type=0 #156
+2023/01/10-11:26:54.192 54 Compacting 4@0 + 1@1 files
+2023/01/10-11:26:54.222 54 Generated table #160@0: 717 keys, 1266666 bytes
+2023/01/10-11:26:54.222 54 Compacted 4@0 + 1@1 files => 1266666 bytes
+2023/01/10-11:26:54.223 54 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/01/10-11:26:54.224 54 Delete type=2 #155
+2023/01/10-11:26:54.224 54 Delete type=2 #149
+2023/01/10-11:26:54.224 54 Delete type=2 #157
+2023/01/10-11:26:54.224 54 Delete type=2 #159
+2023/01/10-11:26:54.224 54 Delete type=2 #151

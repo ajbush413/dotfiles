@@ -1,0 +1,66 @@
+2023/01/10-07:26:59.727 1585 Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/MANIFEST-000001
+2023/01/10-07:26:59.728 1585 Recovering log #166
+2023/01/10-07:26:59.728 1585 Reusing old log /home/vintalorian/.config/google-chrome/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/000166.log 
+2023/01/10-07:27:04.128 1554 Level-0 table #170: started
+2023/01/10-07:27:04.171 1554 Level-0 table #170: 2168228 bytes OK
+2023/01/10-07:27:04.173 1554 Delete type=0 #166
+2023/01/10-07:27:45.047 157e Level-0 table #172: started
+2023/01/10-07:27:45.066 157e Level-0 table #172: 2168149 bytes OK
+2023/01/10-07:27:45.066 157e Delete type=0 #169
+2023/01/10-07:55:27.744 9f57 Level-0 table #174: started
+2023/01/10-07:55:27.796 9f57 Level-0 table #174: 3018397 bytes OK
+2023/01/10-07:55:27.798 9f57 Delete type=0 #171
+2023/01/10-07:55:27.800 9f57 Compacting 4@0 + 1@1 files
+2023/01/10-07:55:27.845 9f57 Generated table #175@0: 17 keys, 2249591 bytes
+2023/01/10-07:55:27.846 9f57 Compacted 4@0 + 1@1 files => 2249591 bytes
+2023/01/10-07:55:27.847 9f57 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/10-07:55:27.847 9f57 Delete type=2 #170
+2023/01/10-07:55:27.847 9f57 Delete type=2 #174
+2023/01/10-07:55:27.847 9f57 Delete type=2 #167
+2023/01/10-07:55:27.847 9f57 Delete type=2 #172
+2023/01/10-07:55:27.847 9f57 Delete type=2 #164
+2023/01/10-07:56:06.744 c4e1 Level-0 table #177: started
+2023/01/10-07:56:06.788 c4e1 Level-0 table #177: 2168466 bytes OK
+2023/01/10-07:56:06.790 c4e1 Delete type=0 #173
+2023/01/10-08:20:35.584 1a1f4 Level-0 table #179: started
+2023/01/10-08:20:35.629 1a1f4 Level-0 table #179: 2185740 bytes OK
+2023/01/10-08:20:35.631 1a1f4 Delete type=0 #176
+2023/01/10-08:40:51.856 232a5 Level-0 table #181: started
+2023/01/10-08:40:51.909 232a5 Level-0 table #181: 2845759 bytes OK
+2023/01/10-08:40:51.910 232a5 Delete type=0 #178
+2023/01/10-09:09:22.768 309a6 Level-0 table #183: started
+2023/01/10-09:09:22.811 309a6 Level-0 table #183: 2188084 bytes OK
+2023/01/10-09:09:22.813 309a6 Delete type=0 #180
+2023/01/10-09:09:22.814 309a6 Compacting 4@0 + 1@1 files
+2023/01/10-09:09:22.860 309a6 Generated table #184@0: 17 keys, 2247963 bytes
+2023/01/10-09:09:22.860 309a6 Compacted 4@0 + 1@1 files => 2247963 bytes
+2023/01/10-09:09:22.861 309a6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/10-09:09:22.861 309a6 Delete type=2 #179
+2023/01/10-09:09:22.861 309a6 Delete type=2 #175
+2023/01/10-09:09:22.861 309a6 Delete type=2 #181
+2023/01/10-09:09:22.861 309a6 Delete type=2 #183
+2023/01/10-09:09:22.861 309a6 Delete type=2 #177
+2023/01/10-09:27:05.745 33e0d Level-0 table #186: started
+2023/01/10-09:27:05.775 33e0d Level-0 table #186: 1426951 bytes OK
+2023/01/10-09:27:05.777 33e0d Delete type=0 #182
+2023/01/10-09:39:05.804 33e0d Level-0 table #188: started
+2023/01/10-09:39:05.856 33e0d Level-0 table #188: 2175803 bytes OK
+2023/01/10-09:39:05.858 33e0d Delete type=0 #185
+2023/01/10-09:59:35.569 43d25 Level-0 table #190: started
+2023/01/10-09:59:35.620 43d25 Level-0 table #190: 2551995 bytes OK
+2023/01/10-09:59:35.622 43d25 Delete type=0 #187
+2023/01/10-10:25:34.288 53630 Level-0 table #192: started
+2023/01/10-10:25:34.335 53630 Level-0 table #192: 2186552 bytes OK
+2023/01/10-10:25:34.337 53630 Delete type=0 #189
+2023/01/10-10:25:34.338 53630 Compacting 4@0 + 1@1 files
+2023/01/10-10:25:34.385 53630 Generated table #193@0: 17 keys, 2217009 bytes
+2023/01/10-10:25:34.385 53630 Compacted 4@0 + 1@1 files => 2217009 bytes
+2023/01/10-10:25:34.386 53630 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/10-10:25:34.386 53630 Delete type=2 #186
+2023/01/10-10:25:34.386 53630 Delete type=2 #190
+2023/01/10-10:25:34.386 53630 Delete type=2 #184
+2023/01/10-10:25:34.386 53630 Delete type=2 #188
+2023/01/10-10:25:34.386 53630 Delete type=2 #192
+2023/01/10-10:41:01.136 59be6 Level-0 table #195: started
+2023/01/10-10:41:01.164 59be6 Level-0 table #195: 1368916 bytes OK
+2023/01/10-10:41:01.166 59be6 Delete type=0 #191

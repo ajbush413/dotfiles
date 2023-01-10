@@ -1,0 +1,14 @@
+2023/01/10-10:41:54.691 5ae9a Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_play.history.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-10:41:54.691 5ae9a Recovering log #34
+2023/01/10-10:41:54.691 5ae9a Reusing old log /home/vintalorian/.config/google-chrome/Default/IndexedDB/https_play.history.com_0.indexeddb.leveldb/000034.log 
+2023/01/10-10:41:54.691 5ae9a Delete type=2 #32
+2023/01/10-10:41:54.865 5ae9a Level-0 table #39: started
+2023/01/10-10:41:54.865 5ae9a Level-0 table #39: 4669 bytes OK
+2023/01/10-10:41:54.866 5ae9a Delete type=0 #34
+2023/01/10-10:41:54.866 5ae9a Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 953 : 1
+2023/01/10-10:41:54.866 5ae9a Compacting 1@0 + 1@1 files
+2023/01/10-10:41:54.868 5ae9a Generated table #40@0: 179 keys, 3301 bytes
+2023/01/10-10:41:54.868 5ae9a Compacted 1@0 + 1@1 files => 3301 bytes
+2023/01/10-10:41:54.868 5ae9a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-10:41:54.868 5ae9a Delete type=2 #39
+2023/01/10-10:41:54.869 5ae9a Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 953 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

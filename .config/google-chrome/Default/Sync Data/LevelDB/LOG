@@ -1,0 +1,6 @@
+2023/01/10-10:41:17.401 5a43f Reusing MANIFEST /home/vintalorian/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/01/10-10:41:17.401 5a43f Recovering log #49
+2023/01/10-10:41:17.401 5a43f Reusing old log /home/vintalorian/.config/google-chrome/Default/Sync Data/LevelDB/000049.log 
+2023/01/10-11:27:16.551 6e3f6 Level-0 table #54: started
+2023/01/10-11:27:16.558 6e3f6 Level-0 table #54: 86976 bytes OK
+2023/01/10-11:27:16.560 6e3f6 Delete type=0 #49
