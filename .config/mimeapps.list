@@ -1,0 +1,14 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/x-executable=appimagelauncher.desktop
+application/vnd.appimage=appimagelauncher.desktop
+
+[Added Associations]
+application/x-executable=appimagelauncher.desktop;
+
+[Removed Associations]
+application/vnd.appimage=appimagelauncher.desktop;

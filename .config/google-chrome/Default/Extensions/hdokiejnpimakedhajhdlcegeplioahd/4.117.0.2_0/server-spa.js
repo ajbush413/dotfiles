@@ -1,0 +1,1 @@
+function isDogfood(){return!1}

@@ -1,0 +1,15 @@
+2023/06/30-10:06:22.408 ca75 Creating DB /home/abush/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2023/06/30-10:06:22.420 ca75 Reusing MANIFEST /home/abush/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-10:11:44.255 ca76 Level-0 table #5: started
+2023/06/30-10:11:44.293 ca76 Level-0 table #5: 1778557 bytes OK
+2023/06/30-10:11:44.298 ca76 Delete type=0 #3
+2023/06/30-10:11:44.324 ca79 Level-0 table #7: started
+2023/06/30-10:11:44.343 ca79 Level-0 table #7: 1840261 bytes OK
+2023/06/30-10:11:44.348 ca79 Delete type=0 #4
+2023/06/30-10:12:11.316 ca76 Compacting 1@1 + 1@2 files
+2023/06/30-10:12:11.341 ca76 Generated table #8@1: 10875 keys, 2137597 bytes
+2023/06/30-10:12:11.353 ca76 Generated table #9@1: 3893 keys, 946704 bytes
+2023/06/30-10:12:11.353 ca76 Compacted 1@1 + 1@2 files => 3084301 bytes
+2023/06/30-10:12:11.359 ca76 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/06/30-10:12:11.359 ca76 Delete type=2 #5
+2023/06/30-10:12:11.359 ca76 Delete type=2 #7

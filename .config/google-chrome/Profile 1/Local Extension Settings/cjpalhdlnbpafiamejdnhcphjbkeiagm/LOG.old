@@ -1,0 +1,14 @@
+2023/06/30-09:44:54.400 bfad Creating DB /home/abush/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2023/06/30-09:44:54.410 bfad Reusing MANIFEST /home/abush/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/06/30-09:44:55.960 bfad Level-0 table #5: started
+2023/06/30-09:44:55.989 bfad Level-0 table #5: 1547773 bytes OK
+2023/06/30-09:44:55.993 bfad Delete type=0 #3
+2023/06/30-09:45:13.955 bfad Level-0 table #7: started
+2023/06/30-09:45:13.975 bfad Level-0 table #7: 1774412 bytes OK
+2023/06/30-09:45:13.979 bfad Delete type=0 #4
+2023/06/30-09:45:18.739 bfad Level-0 table #9: started
+2023/06/30-09:45:18.775 bfad Level-0 table #9: 1825632 bytes OK
+2023/06/30-09:45:18.780 bfad Delete type=0 #6
+2023/06/30-09:45:29.480 bfad Level-0 table #11: started
+2023/06/30-09:45:29.518 bfad Level-0 table #11: 1687011 bytes OK
+2023/06/30-09:45:29.522 bfad Delete type=0 #8
