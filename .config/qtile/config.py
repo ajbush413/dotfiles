@@ -13,9 +13,9 @@ from typing import List  # noqa: F401from typing import List  # noqa: F401
 
 mod = "mod4"              # Sets mod key to SUPER/WINDOWS
 myTerm = "alacritty"      # My terminal of choice
-myBrowser = "google-chrome-stable" # My browser of choice
+myBrowser = "firefox" # My browser of choice
 mySoundPlayer = "ffplay -nodisp -autoexit " # The program that will play system sounds
-soundDir = "/opt/dtos-sounds/" # The directory that contains the sound files
+soundDir = "/opt/os-sounds/" # The directory that contains the sound files
 startupSound = soundDir + "win2000.ogv"
 shutdownSound = soundDir + "win98logoff.ogv"
 dmenuSound = soundDir + "Windows98Up.wav"
@@ -27,43 +27,39 @@ keys = [
              desc='Launches My Terminal'
              ),
          Key([mod, "shift"], "Return",
-             lazy.spawn("dm-run"),
+             lazy.spawn("rofi -show drun"),
              lazy.spawn("ffplay -nodisp -autoexit /opt/dtos-sounds/Windows98Up.wav"),
              desc='Run Launcher'
              ),
          Key([mod], "b",
              lazy.spawn(myBrowser),
-             desc='Google Chrome'
+             desc='Firefox'
              ),
          Key([mod], "F1",
-             lazy.spawn("thunar"),
-             desc='thunar'
+             lazy.spawn("pcmanfm"),
+             desc='pcmanfm'
              ),
          Key([mod], "F2",
-             lazy.spawn("google-chrome-stable"),
-             desc='Google Chrome'
+             lazy.spawn("firefox"),
+             desc='Firefox'
              ),
          Key([mod], "F3",
-             lazy.spawn("thunderbird"),
-             desc='Thunderbird'
+             lazy.spawn("mailspring"),
+             desc='Mailspring'
              ),
          Key([mod], "F4",
              lazy.spawn("veyon-master"),
              desc='Veyon Master'
              ),
          Key([mod], "F5",
-             lazy.spawn("vmplayer"),
-             desc='VMWare Player'
+             lazy.spawn("virtualbox"),
+             desc='Virtualbox'
              ),
          Key([mod], "F6",
-             lazy.spawn("teamviewer"),
-             desc='TeamViewer'
-             ),
-         Key([mod], "F7",
              lazy.spawn("spotify"),
              desc='Spotify'
              ),
-         Key([mod], "F8",
+         Key([mod], "F7",
              lazy.spawn("discord"),
              desc='Discord'
              ),
@@ -86,17 +82,13 @@ keys = [
              desc='Restart Qtile'
              ),
          Key([mod, "shift"], "e",
-             lazy.spawn("ffplay -nodisp -autoexit /opt/dtos-sounds/vistashutdown.mp3"),
+             lazy.spawn("ffplay -nodisp -autoexit /opt/dtos-sounds/vistashutdown.mp3 && sleep 2"),
              lazy.shutdown(),
              desc='Shutdown Qtile'
              ),
          Key([mod, "shift"], "Escape",
              lazy.shutdown(),
              desc='Force Quit Qtile'
-             ),
-         Key(["control", "shift"], "e",
-             lazy.spawn("emacsclient -c -a emacs"),
-             desc='Doom Emacs'
              ),
          ### Switch focus to specific monitor (out of three)
          Key([mod], "w",
@@ -188,133 +180,18 @@ keys = [
              lazy.layout.toggle_split(),
              desc='Toggle between split and unsplit sides of stack'
              ),
-    
-    # ExpressVPN commands
-         KeyChord([mod], "v", [
-             Key([], "c",
-                 lazy.spawn("expressvpn connect"),
-                 desc='Connect ExpressVPN'
-                 ),
-             Key([], "d",
-                 lazy.spawn("expressvpn disconnect"),
-                 desc='Disconnect ExpressVPN'
-                 ),
-             ]),
-
-    # Emacs programs launched using the key chord CTRL+e followed by 'key'
-         KeyChord([mod],"e", [
-             Key([], "e",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(dashboard-refresh-buffer)'"),
-                 #lazy.spawn("alacritty --config-file /home/vintalorian/.config/alacritty/alacrittySpaceVim.yml"),
-                 desc='Doom Emacs Dashboard'
-                 ),
-             Key([], "a",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'"),
-                 desc='Emacsclient EMMS (music)'
-                 ),
-             Key([], "b",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(ibuffer)'"),
-                 desc='Emacsclient Ibuffer'
-                 ),
-             Key([], "d",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(dired nil)'"),
-                 desc='Emacsclient Dired'
-                 ),
-             Key([], "i",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(erc)'"),
-                 desc='Emacsclient ERC (IRC)'
-                 ),
-             Key([], "n",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(elfeed)'"),
-                 desc='Emacsclient Elfeed (RSS)'
-                 ),
-             Key([], "s",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(eshell)'"),
-                 desc='Emacsclient Eshell'
-                 ),
-             Key([], "v",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(+vterm/here nil)'"),
-                 desc='Emacsclient Vterm'
-                 ),
-             Key([], "w",
-                 lazy.spawn("emacsclient -c -a 'emacs' --eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"),
-                 desc='Emacsclient EWW Browser'
-                 )
-         ]),
-         # Dmenu scripts launched using the key chord SUPER+p followed by 'key'
-         KeyChord([mod], "p", [
-             Key([], "h",
-                 lazy.spawn("dm-hub"),
-                 desc='List all dmscripts'
-                 ),
-             Key([], "a",
-                 lazy.spawn("dm-sounds"),
-                 desc='Choose ambient sound'
-                 ),
-             Key([], "b",
-                 lazy.spawn("dm-setbg"),
-                 desc='Set background'
-                 ),
-             Key([], "c",
-                 lazy.spawn("dtos-colorscheme"),
-                 desc='Choose color scheme'
-                 ),
-             Key([], "e",
-                 lazy.spawn("dm-confedit"),
-                 desc='Choose a config file to edit'
-                 ),
-             Key([], "i",
-                 lazy.spawn("dm-maim"),
-                 desc='Take a screenshot'
-                 ),
-             Key([], "k",
-                 lazy.spawn("dm-kill"),
-                 desc='Kill processes '
-                 ),
-             Key([], "m",
-                 lazy.spawn("dm-man"),
-                 desc='View manpages'
-                 ),
-             Key([], "n",
-                 lazy.spawn("dm-note"),
-                 desc='Store and copy notes'
-                 ),
-             Key([], "o",
-                 lazy.spawn("dm-bookman"),
-                 desc='Browser bookmarks'
-                 ),
-             Key([], "p",
-                 lazy.spawn("passmenu -p \"Pass: \""),
-                 desc='Logout menu'
-                 ),
-             Key([], "q",
-                 lazy.spawn("dm-logout"),
-                 desc='Logout menu'
-                 ),
-             Key([], "r",
-                 lazy.spawn("dm-radio"),
-                 desc='Listen to online radio'
-                 ),
-             Key([], "s",
-                 lazy.spawn("dm-websearch"),
-                 desc='Search various engines'
-                 ),
-             Key([], "t",
-                 lazy.spawn("dm-translate"),
-                 desc='Translate text'
-                 )
-         ])
 ]
 
-groups = [Group("web", layout='monadtall'),
+
+groups = [Group("work", layout='monadtall'),
           Group("main", layout='monadtall'),
           Group("mail", layout='monadtall'),
           Group("view", layout='monadtall'),
-          Group("win", layout='monadtall'),
-          Group("vnc", layout='monadtall'),
+          Group("virt", layout='monadtall'),
           Group("mus", layout='monadtall'),
           Group("chat", layout='monadtall'),
-          Group("cal", layout='monadtall'),
+          Group("vid", layout='monadtall'),
+          Group("calc", layout='monadtall'),
           Group("xtra", layout='monadtall'),
           ScratchPad("scratchpad", [DropDown(
                   "term", "alacritty", height=0.5, opacity=0.8, 
@@ -677,7 +554,7 @@ follow_mouse_focus = True
 bring_front_click = False
 cursor_warp = False
 
-floating_layout = layout.Floating(float_rules=[
+floating_layout = layout.Floating(**layout_theme, float_rules=[
     # Run the utility of `xprop` to see the wm class and name of an X client.
     # default_float_rules include: utility, notification, toolbar, splash, dialog,
     # file_progress, confirm, download and error.
