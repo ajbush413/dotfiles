@@ -8,11 +8,11 @@ picom &
 sh /home/vintalorian/.screenlayout/docked.sh &
 # /usr/bin/emacs --daemon &
 # conky -c $HOME/.config/conky/qtile/doom-one-01.conkyrc
-volumeicon &
 nm-applet &
 dunst &
 onedrivegui &
 flameshot &
+volumeicon &
 
 ### UNCOMMENT ONLY ONE OF THE FOLLOWING THREE OPTIONS! ###
 # 1. Uncomment to restore last saved wallpaper

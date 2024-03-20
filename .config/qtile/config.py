@@ -191,7 +191,7 @@ groups = [Group("work", layout='monadtall'),
           Group("mus", layout='monadtall'),
           Group("chat", layout='monadtall'),
           Group("vid", layout='monadtall'),
-          Group("calc", layout='monadtall'),
+          Group("code", layout='monadtall'),
           Group("xtra", layout='monadtall'),
           ScratchPad("scratchpad", [DropDown(
                   "term", "alacritty", height=0.5, opacity=0.8, 
@@ -382,7 +382,7 @@ def init_widgets_list():
                        fontsize = 12
                        ),
               widget.Net(
-                       interface = "eno1",
+                       interface = "enp44s0",
                        format = '{down} ↓↑ {up}',
                        foreground = colors[6],
                        background = colors[0],
